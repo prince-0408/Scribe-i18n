@@ -501,7 +501,6 @@
     },
     "i18n._global.legal" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -645,7 +644,6 @@
     },
     "i18n._global.privacy_policy" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -993,7 +991,6 @@
     },
     "i18n.app._global.download_data" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1101,7 +1098,6 @@
     },
     "i18n.app._global.english" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1209,7 +1205,6 @@
     },
     "i18n.app._global.french" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1317,7 +1312,6 @@
     },
     "i18n.app._global.german" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1437,7 +1431,6 @@
     },
     "i18n.app._global.indonesian" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1473,7 +1466,6 @@
     },
     "i18n.app._global.italian" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1581,7 +1573,6 @@
     },
     "i18n.app._global.norwegian" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1611,7 +1602,6 @@
     },
     "i18n.app._global.portuguese" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1827,7 +1817,6 @@
     },
     "i18n.app._global.russian" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1935,7 +1924,6 @@
     },
     "i18n.app._global.spanish" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2043,7 +2031,6 @@
     },
     "i18n.app._global.swedish" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2151,7 +2138,6 @@
     },
     "i18n.app.about.app_hint_tooltip" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2259,7 +2245,6 @@
     },
     "i18n.app.about.community.github" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2367,7 +2352,6 @@
     },
     "i18n.app.about.community.mastodon" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2475,7 +2459,6 @@
     },
     "i18n.app.about.community.matrix" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2583,7 +2566,6 @@
     },
     "i18n.app.about.community.share_conjugate" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2691,7 +2673,6 @@
     },
     "i18n.app.about.community.share_scribe" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2799,7 +2780,6 @@
     },
     "i18n.app.about.community.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2907,7 +2887,6 @@
     },
     "i18n.app.about.community.visit_website" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3015,7 +2994,6 @@
     },
     "i18n.app.about.community.wikimedia" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3123,7 +3101,6 @@
     },
     "i18n.app.about.community.wikimedia.caption" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3231,7 +3208,6 @@
     },
     "i18n.app.about.community.wikimedia.text_1" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3339,7 +3315,6 @@
     },
     "i18n.app.about.community.wikimedia.text_2" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3447,7 +3422,6 @@
     },
     "i18n.app.about.community.wikimedia.text_3" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3555,7 +3529,6 @@
     },
     "i18n.app.about.feedback.bug_report" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3771,7 +3744,6 @@
     },
     "i18n.app.about.feedback.rate_scribe" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3879,7 +3851,6 @@
     },
     "i18n.app.about.feedback.reset_app_hints" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -3987,7 +3958,6 @@
     },
     "i18n.app.about.feedback.send_email" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4095,7 +4065,6 @@
     },
     "i18n.app.about.feedback.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4203,7 +4172,6 @@
     },
     "i18n.app.about.feedback.version" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4311,7 +4279,6 @@
     },
     "i18n.app.about.legal.privacy_policy.caption" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4419,7 +4386,6 @@
     },
     "i18n.app.about.legal.privacy_policy.text" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4527,7 +4493,6 @@
     },
     "i18n.app.about.legal.third_party" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4635,7 +4600,6 @@
     },
     "i18n.app.about.legal.third_party.caption" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4743,7 +4707,6 @@
     },
     "i18n.app.about.legal.third_party.entry_custom_keyboard" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4851,7 +4814,6 @@
     },
     "i18n.app.about.legal.third_party.entry_simple_keyboard" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4959,7 +4921,6 @@
     },
     "i18n.app.about.legal.third_party.text" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5067,7 +5028,6 @@
     },
     "i18n.app.about.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6183,7 +6143,6 @@
     },
     "i18n.app.download.menu_option.conjugate_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6399,7 +6358,6 @@
     },
     "i18n.app.download.menu_option.conjugate_download_data_start" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6507,7 +6465,6 @@
     },
     "i18n.app.download.menu_option.conjugate_title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6615,7 +6572,6 @@
     },
     "i18n.app.download.menu_option.scribe_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6723,7 +6679,6 @@
     },
     "i18n.app.download.menu_option.scribe_download_data" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6831,7 +6786,6 @@
     },
     "i18n.app.download.menu_option.scribe_title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7095,7 +7049,6 @@
     },
     "i18n.app.download.menu_ui.download_data.downloading" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -7137,7 +7090,6 @@
     },
     "i18n.app.download.menu_ui.download_data.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7245,7 +7197,6 @@
     },
     "i18n.app.download.menu_ui.download_data.up_to_date" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -7299,7 +7250,6 @@
     },
     "i18n.app.download.menu_ui.download_data.update_all" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -7311,7 +7261,6 @@
     },
     "i18n.app.download.menu_ui.no_keyboards_installed" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "el" : {
           "stringUnit" : {
@@ -7335,7 +7284,6 @@
     },
     "i18n.app.download.menu_ui.translation_source_tooltip.change_language" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -7365,7 +7313,6 @@
     },
     "i18n.app.download.menu_ui.translation_source_tooltip.download_warning" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "el" : {
           "stringUnit" : {
@@ -7389,7 +7336,6 @@
     },
     "i18n.app.download.menu_ui.translation_source_tooltip.use_source_language" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -7419,7 +7365,6 @@
     },
     "i18n.app.download.menu_ui.update_data" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7527,7 +7472,6 @@
     },
     "i18n.app.download.menu_ui.update_data.check_new" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7635,7 +7579,6 @@
     },
     "i18n.app.download.menu_ui.update_data.regular_update" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7743,7 +7686,6 @@
     },
     "i18n.app.installation.app_hint_tooltip" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7959,7 +7901,6 @@
     },
     "i18n.app.installation.keyboard.keyboards_bold" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8067,7 +8008,6 @@
     },
     "i18n.app.installation.keyboard.scribe_settings" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8175,7 +8115,6 @@
     },
     "i18n.app.installation.keyboard.text_1" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8283,7 +8222,6 @@
     },
     "i18n.app.installation.keyboard.text_2" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8391,7 +8329,6 @@
     },
     "i18n.app.installation.keyboard.text_3" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8499,7 +8436,6 @@
     },
     "i18n.app.installation.keyboard.text_4" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8607,7 +8543,6 @@
     },
     "i18n.app.installation.keyboard.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8727,7 +8662,6 @@
     },
     "i18n.app.installation.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9159,7 +9093,6 @@
     },
     "i18n.app.settings.button_install_keyboards" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9279,7 +9212,6 @@
     },
     "i18n.app.settings.keyboard_app_hint_tooltip" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9614,14 +9546,13 @@
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Automatically insert and adjust spaces for punctuation marks."
+            "value" : "Automatically adjust spaces around punctuation marks."
           }
         }
       }
     },
     "i18n.app.settings.keyboard.functionality.auto_suggest_emoji" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9729,7 +9660,6 @@
     },
     "i18n.app.settings.keyboard.functionality.auto_suggest_emoji_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10161,7 +10091,6 @@
     },
     "i18n.app.settings.keyboard.functionality.delete_word_by_word" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10269,7 +10198,6 @@
     },
     "i18n.app.settings.keyboard.functionality.delete_word_by_word_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10377,7 +10305,6 @@
     },
     "i18n.app.settings.keyboard.functionality.double_space_period" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10485,7 +10412,6 @@
     },
     "i18n.app.settings.keyboard.functionality.double_space_period_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11241,7 +11167,6 @@
     },
     "i18n.app.settings.keyboard.functionality.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12303,7 +12228,6 @@
     },
     "i18n.app.settings.keyboard.layout.disable_accent_characters" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12411,7 +12335,6 @@
     },
     "i18n.app.settings.keyboard.layout.disable_accent_characters_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12519,7 +12442,6 @@
     },
     "i18n.app.settings.keyboard.layout.period_and_comma" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12627,7 +12549,6 @@
     },
     "i18n.app.settings.keyboard.layout.period_and_comma_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12735,7 +12656,6 @@
     },
     "i18n.app.settings.keyboard.layout.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12843,7 +12763,6 @@
     },
     "i18n.app.settings.keyboard.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12951,7 +12870,6 @@
     },
     "i18n.app.settings.keyboard.translation.change_source_tooltip.download_warning" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "el" : {
           "stringUnit" : {
@@ -12975,7 +12893,6 @@
     },
     "i18n.app.settings.keyboard.translation.change_source_tooltip.keep_source_language" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -13005,7 +12922,6 @@
     },
     "i18n.app.settings.keyboard.translation.select_source" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13113,7 +13029,6 @@
     },
     "i18n.app.settings.keyboard.translation.select_source_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13221,7 +13136,6 @@
     },
     "i18n.app.settings.keyboard.translation.select_source.caption" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13329,7 +13243,6 @@
     },
     "i18n.app.settings.keyboard.translation.select_source.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13437,7 +13350,6 @@
     },
     "i18n.app.settings.keyboard.translation.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13545,7 +13457,6 @@
     },
     "i18n.app.settings.menu.app_color_mode" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13653,7 +13564,6 @@
     },
     "i18n.app.settings.menu.app_color_mode_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13761,7 +13671,6 @@
     },
     "i18n.app.settings.menu.app_language" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -13869,7 +13778,6 @@
     },
     "i18n.app.settings.menu.app_language_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14085,7 +13993,6 @@
     },
     "i18n.app.settings.menu.app_language.one_device_language_warning.message" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14193,7 +14100,6 @@
     },
     "i18n.app.settings.menu.app_language.one_device_language_warning.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14301,7 +14207,6 @@
     },
     "i18n.app.settings.menu.high_color_contrast" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14409,7 +14314,6 @@
     },
     "i18n.app.settings.menu.high_color_contrast_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14517,7 +14421,6 @@
     },
     "i18n.app.settings.menu.increase_text_size" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14625,7 +14528,6 @@
     },
     "i18n.app.settings.menu.increase_text_size_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14733,7 +14635,6 @@
     },
     "i18n.app.settings.menu.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14889,7 +14790,6 @@
     },
     "i18n.app.settings.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -15009,7 +14909,6 @@
     },
     "i18n.app.settings.translation" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
