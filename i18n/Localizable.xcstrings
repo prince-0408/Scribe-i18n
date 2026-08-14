@@ -9602,7 +9602,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Auto-space after punctuation"
+            "value" : "Auto-space punctuation"
           }
         }
       }
@@ -9614,7 +9614,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Automatically insert a space after typing punctuation marks."
+            "value" : "Automatically insert and adjust spaces for punctuation marks."
           }
         }
       }
